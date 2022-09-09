@@ -39,7 +39,7 @@ I'm Gwenneg, a Java software engineer, open source contributor (mainly [Quarkus]
 ### My certifications
 <p>
 <a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=uw1EBjWbaxTgfDS+7udYFoztDG6RBKopeJeFJYlI43Y="><img src="https://img.shields.io/badge/Certified%20Application%20Security%20Engineer%20--%20Java-OBTAINED-green?style=flat-square" alt="CASE Java" /></a><br/>
-<img src="https://img.shields.io/badge/Oracle%20Certified%20Professional%3A%20Java%20SE%2011%20Developer-OBTAINED-green?style=flat-square" alt="OCP Java 8" /><br/>
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=799CD7D8A9B0149B7882ED4FC131BE544234F3C675B8B0D3F15BEE48D4C52E38"><img src="https://img.shields.io/badge/Oracle%20Certified%20Professional%3A%20Java%20SE%2011%20Developer-OBTAINED-green?style=flat-square" alt="OCP Java 8" /></a><br/>
 <img src="https://img.shields.io/badge/Oracle%20Certified%20Professional%3A%20Java%20SE%2017%20Developer-IN%20PROGRESS-yellow?style=flat-square" alt="OCP Java 11" />
 </p>
 
