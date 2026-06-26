@@ -4,6 +4,8 @@ I'm Gwenneg, a software engineer and open source contributor.
 
 ### My blog posts
 
+- 2026-06-26 | [Claude Code plugins and the trust nobody talks about](https://gwenneg.com/2026/06/26/claude-code-plugins-and-the-trust-nobody-talks-about.html)
+- 2026-06-18 | [Your Claude bill called. It wants to talk.](https://gwenneg.com/2026/06/18/your-claude-bill-called.html)
 - 2026-05-31 | [Turn AI friction into better docs](https://gwenneg.com/2026/05/31/turn-ai-friction-into-better-docs.html) | [Source code](https://github.com/gwenneg/blog-ai-friction-loop)
 - 2026-05-28 | [The docs your AI agent is missing](https://gwenneg.com/2026/05/28/the-docs-your-ai-agent-is-missing.html) | [Source code](https://github.com/gwenneg/blog-ai-friction-loop)
 - 2026-05-04 | [Teaching Claude Code skills to improve themselves](https://gwenneg.com/2026/05/04/self-improving-claude-code-skills.html)
