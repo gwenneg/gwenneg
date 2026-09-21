@@ -4,6 +4,7 @@ I'm Gwenneg, a software engineer and open source contributor.
 
 ### My blog posts
 
+- 2026-09-21 | [Let the routine MintMaker PRs merge themselves](https://gwenneg.com/2026/09/21/let-the-routine-mintmaker-prs-merge-themselves.html) | [Source code](https://github.com/gwenneg/mintmaker-automerge)
 - 2026-09-03 | [Take soundings before you ship](https://gwenneg.com/2026/09/03/take-soundings-before-you-ship.html) | [Source code](https://github.com/gwenneg/soundings)
 - 2026-08-01 | [Turn an AI you can’t trust into one you can](https://gwenneg.com/2026/08/01/turn-an-ai-you-cant-trust-into-one-you-can.html) | [Source code](https://github.com/gwenneg/ai-mentor)
 - 2026-07-13 | [Which 80% of Claude Code are you missing?](https://gwenneg.com/2026/07/13/which-80-percent-of-claude-code-are-you-missing.html) | [Source code](https://github.com/gwenneg/ai-mentor)
